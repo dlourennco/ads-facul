@@ -1,0 +1,38 @@
+body {
+    background-color: #fd5d5d;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif ;
+}
+
+section {
+    margin-top: 60px;
+}
+
+section #form {
+    background-color: white;
+    border-radius: 6px;
+    padding: 5px 25px;
+}
+
+form label {
+    font-size: 10pt;
+}
+
+input  {
+    border: 1px solid #d3d3d3
+}
+
+button#enviar{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+
+    color: white;
+    font-weight: bold;
+    background-color: #fd5d5d;
+
+    border: 0;
+    border-radius: 3px;
+}
